@@ -1,0 +1,5 @@
+telegram/
+*.pyc
+*.json
+indices/
+text.txt
